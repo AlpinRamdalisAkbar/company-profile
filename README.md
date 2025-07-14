@@ -32,7 +32,7 @@ let services = [
     techNotes: "Built to handle even a Gengar-DDOS attack. Yes, we ghost-proofed it."
   }
 ];
+```
 
-
-> Dear Nintendo,
-> If you’re reading this — please see this for what it is: a tribute. We love Pokémon. We respect the IP. We promise not to sell a single Pokécoin from this.
+> "Dear Nintendo,
+> If you’re reading this — please see this for what it is: a tribute. We love Pokémon. We respect the IP. We promise not to sell a single Pokécoin from this."
